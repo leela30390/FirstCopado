@@ -260,7 +260,7 @@
         <fields>
         <fullName>sum__c</fullName>
         <externalId>false</externalId>
-        <label>s<um/label>
+        <label>sum/label>
         <precision>18</precision>
         <required>false</required>
         <scale>2</scale>
