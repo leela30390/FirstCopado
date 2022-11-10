@@ -257,6 +257,16 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Currency</type>
     </fields>
+        <fields>
+        <fullName>sum__c</fullName>
+        <externalId>false</externalId>
+        <label>avg</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Currency</type>
+    </fields>
     <fields>
         <fullName>AAAA__c</fullName>
         <externalId>true</externalId>
