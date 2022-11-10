@@ -257,4 +257,10 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Currency</type>
     </fields>
+    <fields>
+        <fullName>AAAA__c</fullName>
+        <externalId>true</externalId>
+        <label>AAAA</label>
+        <type>AutoNumber</type>
+    </fields>
 </CustomObject>
