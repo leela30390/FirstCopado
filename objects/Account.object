@@ -267,7 +267,7 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Currency</type>
     </fields>
-        </fields>
+        
         <fields>
         <fullName>sum1__c</fullName>
         <externalId>false</externalId>
